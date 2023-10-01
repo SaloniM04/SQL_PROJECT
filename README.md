@@ -1,4 +1,4 @@
-# SQL_PROJECT
+# Restaurant Revenue Prediction using SQL 
 OBJECTIVE- In this project, I aim to predict the restaurant revenue based on the independent features using SQL Server.
 
 Columns include:- 
