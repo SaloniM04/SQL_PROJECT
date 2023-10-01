@@ -1,0 +1,101 @@
+Id,Name,Franchise,Franchise,Category,City,No_Of_Item,Order_Placed,Revenue
+101,HungryHowie'sPizza,1,Yes,Mexican,Bengaluru,55,6,5953753
+102,CharleysPhillySteaks,0,No,Varied Menu,Gurugram,72,7,7223131
+103,Chuy's,1,Yes,Chicken,Pune,25,2,2555379
+104,O'Charley's,1,Yes,Italian/Pizza,Mumbai,18,3,2175511
+105,PolloTropical,1,Yes,Pizza,Noida,48,4,4816715
+106,Maggiano'sLittleItaly,1,Yes,Seafood,Noida,56,5,4517319
+107,Cicis,1,Yes,Steak,Noida,58,5,5966635
+108,LongJohnSilver's,1,Yes,Pizza,Mumbai,49,4,6491607
+109,SaltgrassSteakHouse,1,Yes,Mexican,Mumbai,59,5,5152497
+110,ChuckE.Cheese's,1,Yes,Steak,Pune,76,5,4544227
+111,TacoJohn's,0,No,Frozen Desserts,Bengaluru,40,4,3945135
+112,TexasdeBrazilChurrascaria,1,Yes,Pizza,Bengaluru,56,5,3861370
+113,ColdStoneCreamery,1,Yes,Coffee Cafe,Bengaluru,22,2,2234634
+114,BlazePizza,1,Yes,BBQ,Bengaluru,55,5,5107746
+115,Peet'sCoffee,0,No,Sandwich,Bengaluru,22,2,1099097
+116,Dickey'sBarbecuePit,0,No,Bakery Cafe,Bengaluru,36,3,3918918
+117,ZoesKitchen,1,Yes,Burger,Bengaluru,123,11,19696939
+118,CornerBakery_Cafe,1,Yes,Asian,Gurugram,100,8,7513524
+119,KrystalCo.,1,Yes,Varied Menu,Pune,59,5,4937526
+120,Benihana,0,No,Family Style,Mumbai,25,2,1521934
+121,Cooper'sHawkWinery&Restaurants,1,Yes,Family Style,Noida,62,5,5025735
+122,BigBoy/Frisch'sBigBoy,0,No,Sports Bar,Noida,32,1,849870
+123,BlackBearDiner,1,Yes,Sandwich,Noida,45,4,4956086
+124,TwinPeaks,0,No,Pizza,Mumbai,37,3,1999068
+125,Schlotzsky's,1,Yes,BBQ,Mumbai,110,9,7904084
+126,Jet'sPizza,0,No,Mexican,Pune,45,4,2778621
+127,FamousDave's,0,No,Steak,Bengaluru,28,2,2967425
+128,OnTheBorderMexicanGrill&Cantina,0,No,Varied Menu,Bengaluru,60,5,6135276
+129,FogodeChao,1,Yes,Family Style,Bengaluru,55,5,7705945
+130,NinetyNineRestaurants,0,No,Mexican,Bengaluru,39,3,2447890
+131,VillageInn,1,Yes,Steak,Bengaluru,35,3,2408199
+132,TacoCabana,1,Yes,Coffee Cafe,Bengaluru,25,2,2358644
+133,Fleming'sPrimeSteakhouse&WineBar,0,No,Burger,Bengaluru,37,3,3261924
+134,CaribouCoffee,0,No,Bakery Cafe,Gurugram,29,2,2371202
+135,Jack's,0,No,Varied Menu,Pune,48,4,4100886
+136,AuBonPain,1,Yes,Asian/Noodle,Mumbai,41,4,3903884
+137,BarLouie,1,Yes,Italian/Pizza,Noida,35,3,3028267
+138,SarkuJapan,1,Yes,Burger,Noida,34,3,2740687
+139,OldChicagoPizza&Taproom,0,No,Mexican,Noida,64,5,5461700
+140,Rally'sHamburgers,0,No,Pizza,Mumbai,44,4,3818055
+141,Torchy'sTacos,1,Yes,Seafood,Mumbai,75,7,6836483
+142,PizzaRanch,0,No,Frozen Desserts,Pune,51,4,4554237
+143,PappadeauxSeafoodKitchen,1,Yes,Asian/Noodle,Bengaluru,55,5,4952255
+144,Braum'sIceCream&DairyStores,0,No,Mexican,Bengaluru,33,3,2732645
+145,PeiWeiAsianDiner,1,Yes,Steak,Bengaluru,48,4,4264176
+146,CafeRioMexicanGrill,1,Yes,Burger,Bengaluru,45,4,3752885
+147,Morton'sTheSteakhouse,1,Yes,Sandwich,Bengaluru,49,4,4250758
+148,Smashburger,0,No,Family Casual,Bengaluru,85,8,7865428
+149,Wienerschnitzel,0,No,Varied Menu,Bengaluru,95,7,7201784
+150,Sizzler,0,No,Varied Menu,Gurugram,117,9,8630682
+151,Seasons52,1,Yes,Bakery Cafe,Pune,23,2,2156098
+152,BahamaBreezeIslandGrille,0,No,Pizza,Mumbai,38,3,3273041
+153,PretAManger,1,Yes,Family Style,Noida,27,2,1763231
+154,Godfather'sPizza,0,No,Steak,Noida,61,5,5595267
+155,HuddleHouse,1,Yes,Mexican,Noida,55,5,4651866
+156,Mastro'sRestaurants,0,No,Sandwich,Mumbai,79,7,6941173
+157,UncleJulio's,1,Yes,Mexican,Mumbai,27,2,2390534
+158,Fazoli's,1,Yes,Seafood,Pune,39,3,3258837
+159,Rubio's,1,Yes,Burger,Bengaluru,36,3,3004429
+160,LegalSeaFoods,0,No,Sandwich,Bengaluru,46,3,3600467
+161,A&WAll-AmericanFood,0,No,Mexican,Bengaluru,38,3,3164972
+162,Newk'sEatery,0,No,Pizza,Bengaluru,55,4,4350573
+163,Fuzzy'sTacoShop,1,Yes,Italian/Pizza,Bengaluru,57,5,5286212
+164,Sbarro,0,No,Italian/Pizza,Bengaluru,23,2,1619683
+165,Romano'sMacaroniGrill,1,Yes,Varied Menu,Bengaluru,32,2,2551252
+166,BrioTuscanGrille,0,No,Family Casual,Gurugram,22,2,1756069
+167,LazyDogRestaurant&Bar,1,Yes,Family Style,Pune,23,2,1882131
+168,Souplantation&SweetTomatoes,1,Yes,Steak,Mumbai,40,4,4052733
+169,Friendly's,1,Yes,Sandwich,Noida,44,4,3836721
+170,DelFrisco'sDoubleEagleSteakHouse,0,No,Snack,Noida,39,3,3452382
+171,PennStationEastCoastSubs,0,No,Italian/Pizza,Noida,47,4,3982767
+172,Cinnabon,0,No,Varied Menu,Mumbai,49,4,4136425
+173,UnoPizzeria&Grill,1,Yes,Family Casual,Mumbai,31,2,2525375
+174,J.Alexander's,0,No,Sandwich,Pune,39,3,3347767
+175,Luby's,1,Yes,Varied Menu,Bengaluru,58,5,5500818
+176,WhichWich,0,No,Bakery Cafe,Bengaluru,126,13,16549064
+177,FirebirdsWoodFiredGrill,1,Yes,BBQ,Bengaluru,51,4,4590423
+178,LePainQuotidien,1,Yes,Varied Menu,Bengaluru,27,2,1904842
+179,Sonny'sBBQ,1,Yes,Italian/Pizza,Bengaluru,42,4,3871344
+180,TrueFoodKitchen,0,No,Varied Menu,Bengaluru,69,6,6313221
+181,BucadiBeppo,0,No,Varied Menu,Bengaluru,42,4,3727364
+182,HardRockCafe,0,No,Burger,Gurugram,43,4,4066618
+183,JohnnyRockets,1,Yes,Family Style,Pune,49,4,3807496
+184,Fuddruckers,0,No,Healthy,Mumbai,51,6,5966193
+185,TheOriginalPancakeHouse,1,Yes,Chicken,Noida,50,4,4250553
+186,Sweetgreen,0,No,Pizza,Noida,80,7,7495092
+187,GoldenChick,1,Yes,Seafood,Noida,40,3,3351383
+188,MountainMike'sPizza,1,Yes,Varied Menu,Mumbai,67,6,5906596
+189,BubbaGumpShrimpCo.,1,Yes,Burger,Mumbai,25,2,2025297
+190,TheMeltingPot,0,No,Pizza,Pune,29,2,2364478
+191,FarmerBoys,0,No,Family Style,Bengaluru,40,3,3426169
+192,DonatosPizza,0,No,Mexican,Bengaluru,27,2,2083447
+193,Shoney's,1,Yes,Varied Menu,Bengaluru,72,7,6782425
+194,TacoBueno,0,No,Snack,Bengaluru,50,3,3410878
+195,ClaimJumper,1,Yes,Bakery Cafe,Bengaluru,42,4,3753720
+196,Wetzel'sPretzels,0,No,Italian/Pizza,Bengaluru,19,1,1270499
+197,LaMadeleineCountryFrenchCafe,1,Yes,Varied Menu,Bengaluru,75,6,6412623
+198,Giordano's,1,Yes,Varied Menu,Gurugram,77,6,6694797
+199,IslandsFineBurgers&Drinks,1,Yes,Sports Bar,Pune,25,2,2344689
+200,Mimi'sBistro&Bakery,0,No,BBQ,Mumbai,50,4,4567678
