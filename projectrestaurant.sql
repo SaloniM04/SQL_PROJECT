@@ -2,8 +2,6 @@
 
 --                                               PROJECT
 
---  AIM- In this project, I aim to have to pred=ict the restaurant revenue based on the  independent features using SQL.
-
 --                                            BASIC QUERIES
 
 --Calculate the no of restaurants in each city.
